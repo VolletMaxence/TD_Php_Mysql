@@ -1,7 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href=EX_1_Condition.css>
-        <link rel="stylesheet" href="../../../Menu.css">
+        <link rel="stylesheet" href="../../Menu.css">
     </head>
     <body>
         <?php

@@ -2,7 +2,7 @@
     <ul>
         <li class="deroulant"><a>PHP_Partie1_Exo&ensp;</a>
             <ul class="sous">
-                <li><a href="PHP_PARTIT_1/Fiche1/EX_1_Condition.php">PHP_Partie1_Exo1</a></li>
+                <li><a href="EXO/PHP_PARTIT_1/Fiche1/EX_1_Condition.php">PHP_Partie1_Exo1</a></li>
                 <li><a href="PHP_PARTIT_1/Fiche1/EX_2.1 Tableau Indice Numerique.php">PHP_Partie1_Exo2.1</a></li>
                 <li><a href="PHP_PARTIT_1/Fiche1/EX_2.2_indice_nomme.php">PHP_Partie1_Exo2.2</a></li>
                 <li><a href="PHP_PARTIT_1/Fiche1/EX_3_Tableau_PHP_a_double_entree.php">PHP_Partie1_Exo3</a></li>

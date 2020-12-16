@@ -1,6 +1,6 @@
 <html>
     <head>
-    <link rel="stylesheet" href="../../../Menu.css">
+    <link rel="stylesheet" href="../../Menu.css">
     </head>
     <body>
         <?php

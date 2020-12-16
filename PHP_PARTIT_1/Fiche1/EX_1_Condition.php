@@ -1,9 +1,13 @@
 <html>
     <head>
         <link rel="stylesheet" href=EX_1_Condition.css>
+        <link rel="stylesheet" href="../../Menu.css">
     </head>
     <body>
         <?php
+
+            include ("../../Menu.php");
+
             $NombreAleatoire = rand ( 0 , 100 );    //nbr aléatoire
 
             if($NombreAleatoire%2 == 1)
