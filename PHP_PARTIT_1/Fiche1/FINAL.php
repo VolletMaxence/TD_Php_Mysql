@@ -1,9 +1,11 @@
 <html>
     <head>
-
+    <link rel="stylesheet" href="../../../Menu.css">
     </head>
     <body>
         <?php
+                    include ("../../Menu.php");
+                    
         session_start();
 
 

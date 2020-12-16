@@ -1,12 +1,13 @@
 <html>
     <head>
-
+    <link rel="stylesheet" href="../../../Menu.css">
     </head>
     <body>
 
             <!-- fonction EX 1 -->
 
         <?php
+        include ("../../Menu.php");
 
         function tableau($p1, $p2, $p3)
         {

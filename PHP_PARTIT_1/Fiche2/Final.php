@@ -1,12 +1,13 @@
 <html>
-    <head>
-
+    <head>      
+    <link rel="stylesheet" href="../../../Menu.css">
     </head>
     <body>
 
         <?php
             include "Liste_Fonction.php";
-
+            include ("../../Menu.php");
+            
             $recupMDP;
                     
                 //récupération de la valeur entré

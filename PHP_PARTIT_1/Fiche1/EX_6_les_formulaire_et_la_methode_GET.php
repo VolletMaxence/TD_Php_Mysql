@@ -1,8 +1,13 @@
 <html>
     <head>
         <link rel="stylesheet" href=EX_1_Condition.css>
+        <link rel="stylesheet" href="../../../Menu.css">
     </head>
     <body>
+
+    <?php
+    include ("../../Menu.php");
+    ?>
         <form action="EX_6_les_formulaire_et_la_methode_GET.php" 
                   method="get" 
                   name="textes">

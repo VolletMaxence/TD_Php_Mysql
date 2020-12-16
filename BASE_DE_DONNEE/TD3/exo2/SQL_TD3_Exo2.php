@@ -1,8 +1,12 @@
 <html>
     <head>
-
+        <link rel="stylesheet" href="../../../Menu.css">
     </head>
     <body>
+        <?php
+            include "../../../Menu.php";
+        ?>
+
             <p>
             Les patients qui commencent par la lettre B
             <img class="screen_exo"
